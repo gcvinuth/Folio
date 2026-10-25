@@ -1,3 +1,0 @@
-{"name":"Folio – Book & Comic Reader","short_name":"Folio","description":"Page-turning PDF and comic reader with offline library.","start_url":"./index.html","scope":"./","display":"standalone","orientation":"any","background_color":"#fcf8ff","theme_color":"#4f46c8","categories":["books","productivity"],
-"icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],
-"file_handlers":[{"action":"./index.html","accept":{"application/pdf":[".pdf"],"image/*":[".jpg",".jpeg",".png",".webp"]}}]}
